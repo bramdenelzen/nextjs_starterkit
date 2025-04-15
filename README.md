@@ -21,8 +21,8 @@ This is a starter kit for building modern web applications using **Next.js**, **
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd nextjs_starterkit_150425
+    git clone bramdenelzen/nextjs_starterkit
+    cd nextjs_starterkit
     ```
 
 2. Install dependencies:
